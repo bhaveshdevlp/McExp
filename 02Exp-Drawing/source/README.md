@@ -68,13 +68,13 @@ or ivy:
 ```
 
 ## Thanks to
-[RangVikalp](https://github.com/akshay2211/rang-vikalp) for the beautiful color picker used in DrawBox
+ for the beautiful color picker used in DrawBox
 
 ## License
 Licensed under the Apache License, Version 2.0, [click here for the full license](/LICENSE).
 
 ## Author & support
-This project was created by [Akshay Sharma](https://akshay2211.github.io/).
+
 
 > If you appreciate my work, consider buying me a cup of :coffee: to keep me recharged :metal: by [PayPal](https://www.paypal.me/akshay2211)
 
